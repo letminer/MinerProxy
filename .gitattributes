@@ -1,0 +1,3 @@
+*.sh linguist-language=Golang
+*.md linguist-language=Golang
+*.bat linguist-language=Golang
