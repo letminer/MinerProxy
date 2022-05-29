@@ -299,6 +299,8 @@ while :; do
   echo
   echo " 8. 查看系统当前连接数限制"
   echo
+  echo " 9. 退  出"
+  echo
   read -p "$(echo -e "请选择 [${magenta}1-8$none]:")" choose
   case $choose in
   1)
@@ -328,7 +330,9 @@ while :; do
   8)
       check_limit
       ;;
-
+  9)
+      break
+      ;;
   *)
 echo "请输入正确的数字序号！"
       ;;
