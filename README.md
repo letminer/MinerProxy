@@ -5,6 +5,8 @@
   <img src="https://cdn.jsdelivr.net/gh/letminer/MinerProxy@main/images/logo.png" width="400"/>
 </h1>
 
+
+
 <h4 align="center">全新以太坊代理，支持 芯片机 / 显卡机，支持 ETH / ETC 抽水，协议完美适配。
 <br />Go语言原生开发，博采众长，性能强悍，稳定、高效、不掉线。
 <br />矿池曲线平稳，抽水精确。
@@ -46,13 +48,22 @@ bash install.sh
 ```
 
 # · Windows安装 / 直接下载双击
-点击项目右侧 Code，直接选择 Download ZIP 下载zip压缩包，解压下载的压缩包，双击 windows_run.bat 即可。
+      1、点击项目右侧 Code，直接选择 Download ZIP 下载zip压缩包，
+      2、解压下载的压缩包，双击 windows_run.bat 即可。
 
 # ·  重要提示
 ##### 1、Linux系统第一次安装完成后请重启服务器，连接限制修改方可生效！
 ##### 2、安装完成后，请立即修改默认密码！
 ##### 3、如需更换内置SSL证书，请将证书文件命名为 server.key 与 server.pem ,并放置于程序安装目录下！
 
+# ·  更新日志
+    2022-05-14 发布 v1.0.0
+
+
 # · 联系我们：
-#### letminer电报群：https://t.me/letminers
-#### 欢迎建议、使用反馈、定制需求，电报群直接私聊群主
+##### letminer电报群：https://t.me/letminers
+##### 欢迎建议、使用反馈、定制需求，电报群直接私聊群主
+
+<img title="开发者飞机号" src="https://cdn.jsdelivr.net/gh/letminer/MinerProxy@main/images/letminers.jpg" width="200"/>
+
+<img title="技术交流飞机群" src="https://cdn.jsdelivr.net/gh/letminer/MinerProxy@main/images/letminer.jpg" width="200"/>
