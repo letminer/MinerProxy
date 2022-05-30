@@ -1,11 +1,8 @@
 
-
 <h1 align="center">
   <br>
   <img src="https://cdn.jsdelivr.net/gh/letminer/MinerProxy@main/images/logo.png" width="400"/>
 </h1>
-
-
 
 <h4 align="center">全新以太坊代理，支持 芯片机 / 显卡机，支持 ETH / ETC 抽水，协议完美适配。
 <br />Go语言原生开发，博采众长，性能强悍，稳定、高效、不掉线。
@@ -56,15 +53,17 @@ bash install.sh
 ##### 2、安装完成后，请立即修改默认密码！
 ##### 3、如需更换内置SSL证书，请将证书文件命名为 server.key 与 server.pem ,并放置于程序安装目录下！
 
-# ·  更新日志
-    2022-05-29 发布 v1.0.1    优化抽水逻辑，提高逻辑切换性能。
-    2022-05-14 发布 v1.0.0    MinerProxy新秀-letminer诞生了！！！
+# ·  版本更新日志
+    2022/05/30 v1.0.2  修复BUG，提升内存使用效率。
+    2022/05/29 v1.0.1  优化抽水逻辑，提高逻辑切换性能。
+    2022/05/14 v1.0.0  MinerProxy新秀-letminer诞生了！！！
 
 
 # · 联系我们：
-##### letminer电报群：https://t.me/letminers
+##### Telegram技术交流群：https://t.me/letminers
 ##### 欢迎建议、使用反馈、定制需求，电报群直接私聊群主
+<div align="left">
+<img title="开发者Telegram" src="https://cdn.jsdelivr.net/gh/letminer/MinerProxy@main/images/letminers.jpg" width="200"/>
 
-<img title="开发者飞机号" src="https://cdn.jsdelivr.net/gh/letminer/MinerProxy@main/images/letminers.jpg" width="200"/>
-
-<img title="技术交流飞机群" src="https://cdn.jsdelivr.net/gh/letminer/MinerProxy@main/images/letminer.jpg" width="200"/>
+<img title="技术交流Telegram群" src="https://cdn.jsdelivr.net/gh/letminer/MinerProxy@main/images/letminer.jpg" width="200"/>
+</div>
