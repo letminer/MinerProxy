@@ -10,7 +10,7 @@
 <br />开发者抽水千分之三，无暗抽、无暗抽、无暗抽。。。。</h4>
 最稳定的ETH以太坊代理中转程序，letminer代理，支持TCP和SSL协议，支持专业芯片机与显卡机，内置商业SSL证书，自定义抽水，web界面管理支持手机端，自启动守护进程，开机自动运行，防火墙和连接数限制一键搞定。高效稳定，无视CC，无视DDOS，不怕攻击。
 <h4 align="center">支持定制，持续更新！！！</h4>
-<h4 align="center"><a style="color:red" href="﻿https://github.com/letminer/letsec">本地加密客户端 letsec 现已上线 >></a></h4>
+<h4 align="center"><a style="color:red" href="https://github.com/letminer/letsec">本地加密客户端 letsec 现已上线 >></a></h4>
 <div align="center" style="font-weight:bold">要求 letminer 版本 >= v2.0.0</div>
 
 
