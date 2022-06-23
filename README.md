@@ -26,8 +26,7 @@ bash <(curl -s -L https://cdn.jsdelivr.net/gh/letminer/MinerProxy@main/install.s
 # · Liunx离线安装
 ```bash
      1、直接下载zip压缩包，
-     2、运行安装脚本   
-        bash install.sh
+     2、解压，运行安装脚本 ：bash install.sh       
 ```
 
 # · Windows安装
@@ -62,9 +61,10 @@ bash <(curl -s -L https://cdn.jsdelivr.net/gh/letminer/MinerProxy@main/install.s
 ```bash
     1、Telegram技术交流群：https://t.me/letminers
     2、欢迎建议、使用反馈、定制需求，电报群直接私聊群主
+```    
 <div align="left">
 <img title="开发者Telegram" src="https://cdn.jsdelivr.net/gh/letminer/MinerProxy@main/images/letminers.jpg" width="200"/>
 
 <img title="技术交流Telegram群" src="https://cdn.jsdelivr.net/gh/letminer/MinerProxy@main/images/letminer.jpg" width="200"/>
 </div>
-```
+
