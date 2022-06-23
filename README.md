@@ -46,8 +46,8 @@ wget https://raw.githubusercontent.com/letminer/MinerProxy/main/install.sh
 bash install.sh
 ```
 
-# · Windows安装 / 直接下载双击
-      1、点击项目右侧 Code，直接选择 Download ZIP 下载zip压缩包，
+# · Windows安装
+      1、直接 <a href="https://codeload.github.com/letminer/MinerProxy/zip/refs/heads/main">下载zip压缩包</a>，
       2、解压下载的压缩包，双击 windows_run.bat 即可。
 
 # ·  重要提示
@@ -56,7 +56,7 @@ bash install.sh
 ##### 3、如需更换内置SSL证书，请将证书文件命名为 server.key 与 server.pem ,并放置于程序安装目录下！
 
 # ·  版本更新日志
-    2022/06/21 v2.0.0  纯转发不抽水。
+    2022/06/23 v2.0.0  纯转发不抽水。
                        端口运行状态时可修改抽水用户。
                        支持本地加密客户端LetSec。
     2022/06/05 v1.1.0  每端口最多可添加5个抽水账户。
