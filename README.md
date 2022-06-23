@@ -9,8 +9,10 @@
 <br />矿池曲线平稳，抽水精确。
 <br />开发者抽水千分之三，无暗抽、无暗抽、无暗抽。。。。</h4>
 最稳定的ETH以太坊代理中转程序，letminer代理，支持TCP和SSL协议，支持专业芯片机与显卡机，内置商业SSL证书，自定义抽水，web界面管理支持手机端，自启动守护进程，开机自动运行，防火墙和连接数限制一键搞定。高效稳定，无视CC，无视DDOS，不怕攻击。
-
 <h4 align="center">支持定制，持续更新！！！</h4>
+<h4 align="center"><a style="color:red" href="﻿https://github.com/letminer/letsec">本地加密客户端 letsec 现已上线 >></a></h4>
+<div align="center" style="font-weight:bold">要求 letminer 版本 >= v2.0.0</div>
+
 
 ### 先睹为快
 <div align="center">
@@ -28,7 +30,7 @@ bash <(curl -s -L https://raw.githubusercontent.com/letminer/MinerProxy/main/ins
 bash <(curl -s -L https://cdn.jsdelivr.net/gh/letminer/MinerProxy@main/install.sh)
 ```
 ### 如果一键脚本卡住不动，按照以下两步走
-#### 1、安装 wget 工具
+#### 1、安装 wget 下载工具
 ubuntu/debian 安装
 ```bash
 apt-get update -y && apt-get install wget -y
@@ -54,6 +56,9 @@ bash install.sh
 ##### 3、如需更换内置SSL证书，请将证书文件命名为 server.key 与 server.pem ,并放置于程序安装目录下！
 
 # ·  版本更新日志
+    2022/06/21 v2.0.0  纯转发不抽水。
+                       端口运行状态时可修改抽水用户。
+                       支持本地加密客户端LetSec。
     2022/06/05 v1.1.0  每端口最多可添加5个抽水账户。
                        提升稳定性，修复已知问题。
     2022/06/03 v1.0.5  修复bug，提升稳定性。
