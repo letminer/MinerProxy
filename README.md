@@ -24,21 +24,27 @@ bash <(curl -s -L https://cdn.jsdelivr.net/gh/letminer/MinerProxy@main/install.s
 ```
 
 # · Liunx离线安装
+```bash
      1、直接下载zip压缩包，
      2、运行安装脚本   
         bash install.sh
 ```
 
 # · Windows安装
+```bash
       1、直接下载zip压缩包，
       2、解压下载的压缩包，双击 windows_run.bat 即可。
+```
 
 # ·  重要提示
+```bash
      1、Linux系统第一次安装完成后请重启服务器，连接限制修改方可生效！
      2、安装完成后，请立即修改默认密码！
      3、如需更换内置SSL证书，请将证书文件命名为 server.key 与 server.pem ,并放置于程序安装目录下！
+```
 
 # ·  版本更新日志
+```bash
     2022/06/23 v2.0.0  纯转发不抽水。
                        端口运行状态时可修改抽水用户。
                        支持本地加密客户端LetSec。
@@ -50,8 +56,10 @@ bash <(curl -s -L https://cdn.jsdelivr.net/gh/letminer/MinerProxy@main/install.s
     2022/05/30 v1.0.2  修复bug，提升内存使用效率。
     2022/05/29 v1.0.1  优化抽水逻辑，提高逻辑切换性能。
     2022/05/14 v1.0.0  MinerProxy新秀-letminer诞生了！
+```
 
-# · 联系我们：
+# · 联系我们
+```bash
     1、Telegram技术交流群：https://t.me/letminers
     2、欢迎建议、使用反馈、定制需求，电报群直接私聊群主
 <div align="left">
@@ -59,3 +67,4 @@ bash <(curl -s -L https://cdn.jsdelivr.net/gh/letminer/MinerProxy@main/install.s
 
 <img title="技术交流Telegram群" src="https://cdn.jsdelivr.net/gh/letminer/MinerProxy@main/images/letminer.jpg" width="200"/>
 </div>
+```
