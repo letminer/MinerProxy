@@ -22,11 +22,13 @@ bash <(curl -s -L https://raw.githubusercontent.com/letminer/MinerProxy/main/ins
 # 无法访问github
 bash <(curl -s -L https://cdn.jsdelivr.net/gh/letminer/MinerProxy@main/install.sh)
 ```
+
 # · Liunx离线安装
      1、直接下载zip压缩包，
      2、运行安装脚本   
         bash install.sh
 ```
+
 # · Windows安装
       1、直接下载zip压缩包，
       2、解压下载的压缩包，双击 windows_run.bat 即可。
@@ -48,7 +50,6 @@ bash <(curl -s -L https://cdn.jsdelivr.net/gh/letminer/MinerProxy@main/install.s
     2022/05/30 v1.0.2  修复bug，提升内存使用效率。
     2022/05/29 v1.0.1  优化抽水逻辑，提高逻辑切换性能。
     2022/05/14 v1.0.0  MinerProxy新秀-letminer诞生了！
-
 
 # · 联系我们：
     1、Telegram技术交流群：https://t.me/letminers
