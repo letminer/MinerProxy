@@ -19,7 +19,7 @@
 <img src="https://cdn.jsdelivr.net/gh/letminer/MinerProxy@main/images/首页.png" width="600" />
 </div>
 
-# · Liunx安装 / 一键脚本
+# · Liunx安装 / 在线安装
 
 推荐系统：Ubuntu 16+ / Debian 8+ / CentOS 7+，使用 root 用户输入下面命令安装或卸载<br />
 ```bash
@@ -29,25 +29,13 @@ bash <(curl -s -L https://raw.githubusercontent.com/letminer/MinerProxy/main/ins
 # 备用  一键脚本 - 如无法访问github，使用如下备用脚本
 bash <(curl -s -L https://cdn.jsdelivr.net/gh/letminer/MinerProxy@main/install.sh)
 ```
-### 如果一键脚本卡住不动，按照以下两步走
-#### 1、安装 wget 下载工具
-ubuntu/debian 安装
-```bash
-apt-get update -y && apt-get install wget -y
-```
-centos 安装
-```bash
-yum update -y && yum install wget -y
-```
-
-#### 2、利用 wget 下载一件脚本并执行
-```bash
-wget https://raw.githubusercontent.com/letminer/MinerProxy/main/install.sh
-bash install.sh
+# · Liunx安装 / 离线安装
+     1、安装 wget 下载工具
+     2、运行安装脚本   bash install.sh
 ```
 
 # · Windows安装
-      1、直接 <a href="https://codeload.github.com/letminer/MinerProxy/zip/refs/heads/main">下载zip压缩包</a>，
+      1、直接下载zip压缩包，
       2、解压下载的压缩包，双击 windows_run.bat 即可。
 
 # ·  重要提示
