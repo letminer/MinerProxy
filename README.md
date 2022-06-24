@@ -64,7 +64,7 @@ bash <(curl -s -L https://cdn.jsdelivr.net/gh/letminer/MinerProxy@main/install.s
 ```    
 <div align="left">
 <img title="开发者Telegram" src="https://cdn.jsdelivr.net/gh/letminer/MinerProxy@ce8161bc3507d2bfe02324573b7fbc3778c3b123/images/letminer.jpg" width="200"/>
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img title="技术交流Telegram群" src="https://cdn.jsdelivr.net/gh/letminer/MinerProxy@ce8161bc3507d2bfe02324573b7fbc3778c3b123/images/letminers.jpg" width="200"/>
 </div>
 
