@@ -63,8 +63,8 @@ bash <(curl -s -L https://cdn.jsdelivr.net/gh/letminer/MinerProxy@main/install.s
     2、欢迎建议、使用反馈、定制需求，电报群直接私聊群主
 ```    
 <div align="left">
-<img title="开发者Telegram" src="https://cdn.jsdelivr.net/gh/letminer/MinerProxy@main/images/letminer.jpg" width="200"/>
+<img title="开发者Telegram" src="https://cdn.jsdelivr.net/gh/letminer/MinerProxy@main/images/letminers.jpg" width="200"/>
 
-<img title="技术交流Telegram群" src="https://cdn.jsdelivr.net/gh/letminer/MinerProxy@main/images/letminers.jpg" width="200"/>
+<img title="技术交流Telegram群" src="https://cdn.jsdelivr.net/gh/letminer/MinerProxy@main/images/letminer.jpg" width="200"/>
 </div>
 
