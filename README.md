@@ -17,8 +17,8 @@
 ```bash
 【矿机】 ---SSL/TCP连接--->【letminer本地端口】 ---SSL/TCP连接--->【矿池】
 ```
-或者 搭配letsec使用
-<a style="color:red" href="https://github.com/letminer/letsec"> letsec ？</a>
+或者 搭配 letsec 使用
+<a style="color:red" href="https://github.com/letminer/letsec"> 什么是 letsec ？</a>
 ```bash
 【矿机】 ---SSL/TCP连接---> 【letsec本地端口】 ---> 【letminer本地端口】 ---SSL/TCP连接--->【矿池】
 ```
