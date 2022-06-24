@@ -42,7 +42,7 @@ bash <(curl -s -L https://cdn.jsdelivr.net/gh/letminer/MinerProxy@main/install.s
      3、如需更换内置SSL证书，请将证书文件命名为 server.key 与 server.pem ,并放置于程序安装目录下！
 ```
 
-# ·  版本更新日志
+# ·  版本日志
 ```bash
     2022/06/23 v2.0.0  纯转发不抽水。
                        端口运行状态时可修改抽水用户。
