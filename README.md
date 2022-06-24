@@ -24,7 +24,7 @@
 ```
 
 # · Liunx在线安装
-推荐系统：Ubuntu 16+ / Debian 8+ / CentOS 7+，使用 root 用户输入下面命令安装或卸载<br />
+ · 推荐系统：Ubuntu 16+ / Debian 8+ / CentOS 7+，使用 root 用户输入下面命令安装或卸载<br />
  · 服务器可以直连GitHub
 ```bash
 bash <(curl -s -L https://raw.githubusercontent.com/letminer/MinerProxy/main/install.sh)
