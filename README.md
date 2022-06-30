@@ -27,11 +27,11 @@
  · 推荐系统：Ubuntu 16+ / Debian 8+ / CentOS 7+，使用 root 用户输入下面命令安装或卸载<br />
  · 服务器可以直连Github
 ```bash
-bash <(curl -s -L https://raw.githubusercontent.com/letminer/MinerProxy/main/install.sh)
+  bash <(curl -s -L https://raw.githubusercontent.com/letminer/MinerProxy/main/install.sh)
 ```
  · 服务器无法访问Github
 ```bash
-bash <(curl -s -L https://cdn.jsdelivr.net/gh/letminer/MinerProxy@main/install.sh)
+  bash <(curl -s -L https://cdn.jsdelivr.net/gh/letminer/MinerProxy@main/install.sh)
 ```
 
 # · Liunx离线安装
