@@ -55,6 +55,8 @@ bash <(curl -s -L https://cdn.jsdelivr.net/gh/letminer/MinerProxy@main/install.s
 
 # ·  版本日志
 ```bash
+2022/06/30 v2.1.0  web管理控制台暗黑模式。
+                   bug修复，稳定性提升。
 2022/06/23 v2.0.0  纯转发不抽水。
                    端口运行状态时可修改抽水用户。
                    支持本地加密客户端LetSec。
