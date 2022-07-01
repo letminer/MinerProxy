@@ -29,7 +29,7 @@
 ```bash
   bash <(curl -s -L https://raw.githubusercontent.com/letminer/MinerProxy/main/install.sh)
 ```
- · 服务器无法访问Github
+ · 服务器无法访问Github<br />
  · 备用地址一
 ```bash
   bash <(curl -s -L https://cdn.jsdelivr.net/gh/letminer/MinerProxy@main/install.sh)
