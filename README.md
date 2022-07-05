@@ -13,11 +13,11 @@
 <h4 align="center"><a style="color:red" href="https://github.com/letminer/letsec">本地加密客户端 letsec 现已上线 >></a></h4>
 <div align="center" style="font-weight:bold">要求 letminer 版本 >= v2.0.0</div>
 
-# · letminer独立使用方式
+# · letminer 独立使用
 ```bash
-【矿机】 ---SSL/TCP连接--->【letminer本地端口】 ---SSL/TCP连接--->【矿池】
+【矿机】 ---SSL/TCP连接---> 【letminer本地端口】 ---SSL/TCP连接--->【矿池】
 ```
-或者 搭配 letsec 使用
+# · 或者搭配 letsec 使用
 <a style="color:red" href="https://github.com/letminer/letsec"> 什么是 letsec ？</a>
 ```bash
 【矿机】 ---SSL/TCP连接---> 【letsec本地端口】 ---> 【letminer本地端口】 ---SSL/TCP连接--->【矿池】
