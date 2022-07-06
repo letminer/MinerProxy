@@ -92,5 +92,5 @@
 
 # · 性能测试结果
 <div align="center">
-<img title="letminer性能测试" src="https://github.com/letminer/MinerProxy/blob/c02eb24f3aef09170cddf90fbd35235dc68f4c21/%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95%E6%A1%88%E4%BE%8B.jpg" width="500"/>
+<img title="letminer性能测试" src="https://github.com/letminer/MinerProxy/blob/c02eb24f3aef09170cddf90fbd35235dc68f4c21/%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95%E6%A1%88%E4%BE%8B.jpg" />
 </div>
