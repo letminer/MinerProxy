@@ -88,9 +88,9 @@
 <img title="开发者Telegram" src="https://cdn.jsdelivr.net/gh/letminer/MinerProxy@ce8161bc3507d2bfe02324573b7fbc3778c3b123/images/letminer.jpg" width="200"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img title="技术交流Telegram群" src="https://cdn.jsdelivr.net/gh/letminer/MinerProxy@ce8161bc3507d2bfe02324573b7fbc3778c3b123/images/letminers.jpg" width="200"/>
-</div>
+</div><br /><br />
 
-# · 性能测试结果
+# · 性能测试
 <div align="center">
 <img title="letminer性能测试" src="https://github.com/letminer/MinerProxy/blob/c02eb24f3aef09170cddf90fbd35235dc68f4c21/%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95%E6%A1%88%E4%BE%8B.jpg" />
 </div>
